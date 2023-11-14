@@ -3,24 +3,26 @@
 - 💻 Check out my portfolio at [here](https://shixiong.name)
 - 🔨 Build funny thing evenif it's a 💩
 - 🚀 Lifelong learner
+- ✨ Funy fact: `Your brain is for having ideas, not for holding them`
 
 <hr/>
 <br/>
 <div align="center">
-<i>"Your brain is for having ideas, not for holding them...." </i>
+<i>"People severely over estimate what you can get accomplished in a day, and grossly under estimate what you can get accomplished in a matter of months or years...." </i>
 </div>
 <br/>
 <hr/>
 
 <h2 align="left">
-  <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" height="30"></a> Commits
+  <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" height="30"></a>Recent Stats
 </h2>
+
 ![snake](https://raw.githubusercontent.com/mario1in/mario1in/output/github-contribution-grid-snake.svg)
 ![overview](https://raw.githubusercontent.com/mario1in/mario1in/stats-output/generated/overview.svg)
 ![languages](https://raw.githubusercontent.com/mario1in/mario1in/stats-output/generated/languages.svg)
 
 <h2 align="left">
-  <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1645259437/53304/graph.png?1645259437" height="30"></a> Weekly Development Breakdown
+  <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514062/184/nyancat_big.gif?1643514062" height="30"></a> Weekly Development Breakdown
 </h2>
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
