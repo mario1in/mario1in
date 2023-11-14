@@ -3,7 +3,7 @@
 - 💻 Check out my portfolio at [here](https://shixiong.name)
 - 🔨 Build funny thing evenif it's a 💩
 - 🚀 Lifelong learner
-- ✨ Funy fact: `Your brain is for having ideas, not for holding them`
+- ✨ Your brain is for having ideas, not for holding them
 
 <hr/>
 <br/>
