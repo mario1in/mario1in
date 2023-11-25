@@ -17,7 +17,12 @@
   <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" height="30"></a>Recent Stats
 </h2>
 
-![snake](https://raw.githubusercontent.com/mario1in/mario1in/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ![overview](https://raw.githubusercontent.com/mario1in/mario1in/stats-output/generated/overview.svg)
 ![languages](https://raw.githubusercontent.com/mario1in/mario1in/stats-output/generated/languages.svg)
 
