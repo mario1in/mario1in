@@ -1,7 +1,7 @@
 <h1><a href = "#"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a><span>Hello! I am <a href="https://github.com/mario1in">Mario</a></span> 🇨🇳 </h1>
 
 - 💻 Check out my portfolio at [here](https://shixiong.name)
-- 🔨 Build funny thing evenif it's a 💩
+- 🔨 Build funny things
 - 🚀 Lifelong learner
 - ✨ Your brain is for having ideas, not for holding them
 
