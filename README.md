@@ -16,25 +16,6 @@
 <br/>
 <hr/>
 
-<h2 align="left">
-  <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" height="30"></a>Recent Stats
-</h2>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mario1in/mario1in/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mario1in/mario1in/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/mario1in/mario1in/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 ![overview](https://raw.githubusercontent.com/mario1in/mario1in/stats-output/generated/overview.svg)
 ![languages](https://raw.githubusercontent.com/mario1in/mario1in/stats-output/generated/languages.svg)
 
