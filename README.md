@@ -23,25 +23,6 @@
   <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514062/184/nyancat_big.gif?1643514062" height="30"></a> Weekly Development Breakdown
 </h2>
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2334 commits        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-🌆 Daytime                5263 commits        ████████████░░░░░░░░░░░░░   46.66 % 
-🌃 Evening                2586 commits        ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-🌙 Night                  1096 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-JSON                     4 hrs 2 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
