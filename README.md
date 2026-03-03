@@ -26,10 +26,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2389 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-🌆 Daytime                5451 commits        ████████████░░░░░░░░░░░░░   47.25 % 
-🌃 Evening                2600 commits        ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-🌙 Night                  1096 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+🌞 Morning                2293 commits        █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+🌆 Daytime                5086 commits        ████████████░░░░░░░░░░░░░   47.44 % 
+🌃 Evening                2383 commits        ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+🌙 Night                  959 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 ```
 
 
@@ -39,8 +39,8 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               3 hrs 51 mins       ████████████████████████░   97.39 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+JavaScript               5 hrs 25 mins       ████████████████████████░   97.16 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
 
 
