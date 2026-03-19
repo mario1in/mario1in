@@ -39,8 +39,8 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               6 hrs 58 mins       ██████████████░░░░░░░░░░░   56.99 % 
-Other                    5 hrs 16 mins       ███████████░░░░░░░░░░░░░░   43.01 % 
+Other                    5 hrs 25 mins       ██████████████░░░░░░░░░░░   57.25 % 
+JavaScript               4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.75 % 
 ```
 
 
