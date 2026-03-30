@@ -39,10 +39,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 4 mins        ████████████████████░░░░░   78.07 % 
-Text                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-JavaScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Markdown                 7 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 
