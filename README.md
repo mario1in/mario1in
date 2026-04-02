@@ -39,7 +39,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 12 mins       █████████████████████████   100.00 % 
+Markdown                 4 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
