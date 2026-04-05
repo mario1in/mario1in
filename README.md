@@ -39,7 +39,9 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 31 mins       █████████████████████████   100.00 % 
+Markdown                 5 hrs 20 mins       ████████████████████░░░░░   80.63 % 
+YAML                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
 
