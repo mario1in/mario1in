@@ -39,11 +39,10 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 51 mins      ███████████████████████░░   92.98 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Markdown                 9 hrs 49 mins       ████████████████████████░   97.80 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 
