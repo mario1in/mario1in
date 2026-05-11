@@ -39,7 +39,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     4 hrs 35 mins       █████████████████████████   100.00 % 
+Bash                     4 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 
