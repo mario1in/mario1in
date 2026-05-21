@@ -26,9 +26,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2396 commits        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-🌆 Daytime                5456 commits        ████████████░░░░░░░░░░░░░   47.25 % 
-🌃 Evening                2598 commits        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+🌞 Morning                2397 commits        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+🌆 Daytime                5456 commits        ████████████░░░░░░░░░░░░░   47.24 % 
+🌃 Evening                2600 commits        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
 🌙 Night                  1096 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
 ```
 
@@ -39,7 +39,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     1 hr 49 mins        █████████████████████████   100.00 % 
+Bash                     1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 
