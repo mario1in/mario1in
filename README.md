@@ -39,7 +39,10 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     1 hr 15 mins        █████████████████████████   100.00 % 
+Bash                     3 hrs               █████████████████░░░░░░░░   69.60 % 
+JavaScript               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 ```
 
 
