@@ -23,6 +23,28 @@
   <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514062/184/nyancat_big.gif?1643514062" height="30"></a> Weekly Development Breakdown
 </h2>
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2397 commits        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+🌆 Daytime                5456 commits        ████████████░░░░░░░░░░░░░   47.24 % 
+🌃 Evening                2600 commits        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+🌙 Night                  1096 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Bash                     3 hrs               █████████████████░░░░░░░░   68.15 % 
+JavaScript               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Markdown                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+```
+
 
 <!--END_SECTION:waka-->
 
