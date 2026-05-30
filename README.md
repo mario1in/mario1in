@@ -39,9 +39,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TOML                     42 mins             ██████████████████████░░░   88.60 % 
-Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+TOML                     42 mins             █████████████████████████   100.00 % 
 ```
 
 
