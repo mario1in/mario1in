@@ -39,7 +39,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TOML                     1 hr 1 min          █████████████████████████   100.00 % 
+TOML                     1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 
