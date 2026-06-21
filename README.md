@@ -39,11 +39,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.17 % 
-Other                    2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-TOML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Python                   5 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.62 % 
+Other                    2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+TOML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 ```
 
 
