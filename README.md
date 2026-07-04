@@ -39,11 +39,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 16 mins        █████████████████░░░░░░░░   66.24 % 
-Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-TypeScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Text                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+JavaScript               1 hr 3 mins         ███████████████░░░░░░░░░░   61.98 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+TypeScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Text                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 ```
 
 
