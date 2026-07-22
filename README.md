@@ -27,9 +27,9 @@
 
 ```text
 🌞 Morning                2408 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-🌆 Daytime                5503 commits        ████████████░░░░░░░░░░░░░   47.34 % 
-🌃 Evening                2616 commits        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-🌙 Night                  1098 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+🌆 Daytime                5504 commits        ████████████░░░░░░░░░░░░░   47.34 % 
+🌃 Evening                2617 commits        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+🌙 Night                  1098 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
 ```
 
 
@@ -39,7 +39,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
