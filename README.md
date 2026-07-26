@@ -26,10 +26,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2419 commits        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-🌆 Daytime                5510 commits        ████████████░░░░░░░░░░░░░   47.31 % 
-🌃 Evening                2618 commits        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-🌙 Night                  1099 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+🌞 Morning                2419 commits        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+🌆 Daytime                5511 commits        ████████████░░░░░░░░░░░░░   47.30 % 
+🌃 Evening                2622 commits        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+🌙 Night                  1099 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
 ```
 
 
@@ -39,7 +39,8 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               29 mins             █████████████████████████   100.00 % 
+TypeScript               2 hrs 28 mins       ████████████████████████░   94.76 % 
+README                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 ```
 
 
