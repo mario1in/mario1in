@@ -23,12 +23,14 @@
   <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514062/184/nyancat_big.gif?1643514062" height="30"></a> Weekly Development Breakdown
 </h2>
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2030%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2419 commits        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-🌆 Daytime                5511 commits        ████████████░░░░░░░░░░░░░   47.30 % 
-🌃 Evening                2622 commits        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+🌞 Morning                2419 commits        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+🌆 Daytime                5516 commits        ████████████░░░░░░░░░░░░░   47.32 % 
+🌃 Evening                2622 commits        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
 🌙 Night                  1099 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
 ```
 
@@ -41,6 +43,12 @@
 💬 Programming Languages: 
 TypeScript               2 hrs 28 mins       ████████████████████████░   94.76 % 
 README                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
