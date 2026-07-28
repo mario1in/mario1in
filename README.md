@@ -23,8 +23,6 @@
   <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514062/184/nyancat_big.gif?1643514062" height="30"></a> Weekly Development Breakdown
 </h2>
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2030%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -41,8 +39,8 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 28 mins       ████████████████████████░   94.76 % 
-README                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+TypeScript               2 hrs 28 mins       ███████████████████████░░   93.37 % 
+README                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 ```
 
 🤖 **AI Coding This Week** 
