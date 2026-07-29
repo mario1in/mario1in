@@ -23,6 +23,8 @@
   <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514062/184/nyancat_big.gif?1643514062" height="30"></a> Weekly Development Breakdown
 </h2>
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2030%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -39,14 +41,32 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 28 mins       ███████████████████████░░   93.37 % 
-README                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+TypeScript               2 hrs 28 mins       ██████████████░░░░░░░░░░░   54.12 % 
+README                   1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   38.46 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Fork                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 31 mins (11.55%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 413,632 Input Tokens, 11,168 Output Tokens
+
+💵 $2.40 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 265 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
