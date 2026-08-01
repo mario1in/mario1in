@@ -41,16 +41,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 59 mins        ████████████░░░░░░░░░░░░░   46.15 % 
-README                   1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   40.83 % 
-Fork                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Fork                     2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.73 % 
+README                   1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+TypeScript               1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (12.27%)
+⏱ AI Coding Time: 31 mins (8.85%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
