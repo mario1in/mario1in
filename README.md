@@ -29,8 +29,8 @@
 
 ```text
 🌞 Morning                2420 commits        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-🌆 Daytime                5516 commits        ████████████░░░░░░░░░░░░░   47.32 % 
-🌃 Evening                2622 commits        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+🌆 Daytime                5517 commits        ████████████░░░░░░░░░░░░░   47.33 % 
+🌃 Evening                2621 commits        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
 🌙 Night                  1099 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
 ```
 
@@ -41,16 +41,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Fork                     2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.73 % 
-README                   1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   29.45 % 
-TypeScript               1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Fork                     2 hrs 29 mins       ██████████████░░░░░░░░░░░   57.80 % 
+README                   1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   37.61 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (8.85%)
+⏱ AI Coding Time: 31 mins (12.25%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
