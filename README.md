@@ -28,8 +28,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2421 commits        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-🌆 Daytime                5517 commits        ████████████░░░░░░░░░░░░░   47.32 % 
+🌞 Morning                2421 commits        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+🌆 Daytime                5518 commits        ████████████░░░░░░░░░░░░░   47.32 % 
 🌃 Evening                2622 commits        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
 🌙 Night                  1099 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
 ```
@@ -41,31 +41,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Fork                     2 hrs 52 mins       ███████████████░░░░░░░░░░   61.72 % 
-README                   1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   34.02 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Fork                     2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (11.36%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 517,040 Input Tokens, 13,960 Output Tokens
-
-💵 $3.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 265 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
