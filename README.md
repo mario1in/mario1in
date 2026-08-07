@@ -23,15 +23,13 @@
   <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514062/184/nyancat_big.gif?1643514062" height="30"></a> Weekly Development Breakdown
 </h2>
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%202%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                2421 commits        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-🌆 Daytime                5518 commits        ████████████░░░░░░░░░░░░░   47.32 % 
-🌃 Evening                2622 commits        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-🌙 Night                  1099 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+🌆 Daytime                5520 commits        ████████████░░░░░░░░░░░░░   47.33 % 
+🌃 Evening                2622 commits        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+🌙 Night                  1099 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
 ```
 
 
@@ -41,7 +39,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Fork                     2 hrs 43 mins       █████████████████████████   100.00 % 
+Fork                     2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
