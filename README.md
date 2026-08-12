@@ -41,7 +41,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Fork                     4 hrs 42 mins       █████████████████████████   99.82 % 
+Fork                     4 hrs 40 mins       █████████████████████████   99.82 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
