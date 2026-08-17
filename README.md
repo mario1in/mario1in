@@ -41,8 +41,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Fork                     2 hrs 20 mins       █████████████████████████   99.64 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Fork                     1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
