@@ -28,10 +28,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2449 commits        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-🌆 Daytime                5593 commits        ████████████░░░░░░░░░░░░░   47.43 % 
-🌃 Evening                2650 commits        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-🌙 Night                  1101 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+🌞 Morning                2450 commits        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+🌆 Daytime                5593 commits        ████████████░░░░░░░░░░░░░   47.41 % 
+🌃 Evening                2652 commits        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+🌙 Night                  1101 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 ```
 
 
@@ -41,7 +41,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Fork                     59 mins             █████████████████████████   100.00 % 
+Fork                     3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
